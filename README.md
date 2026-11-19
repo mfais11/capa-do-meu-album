@@ -4,11 +4,11 @@ Capa do meu álbum, uma identidade visual para representar um pouco de quem eu s
 
 > **"Florescer também é saber esperar!"**
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito e uma representação da minha fé católica (cruz). Cada elemento representa algo do meu dia a dia: os livros e a música que me acompanham quando estudo, os filmes e séries que gosto, e a árvore como lembrete de que tudo tem seu tempo para crescer.
 
-## 🛠️ Como foi feito
+## Como foi feito
 
 1. **Ideia e conceito:** comecei pensando em como me descrever sem usar palavras: o que eu gosto, o que me acompanha e o que quero passar para quem olhar a capa.
 2. **Escolha dos elementos:** defini a árvore como símbolo central e, nela, os livros, os fones de ouvido, a TV, o pirulito, e uma cruz, simbolizando minha fé católica, e, cada elemento representa uma parte de mim.
@@ -34,7 +34,7 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 
 Esta entrega faz parte do meu portfólio, onde estão todas as atividades do módulo Mundo do Trabalho.
 
-## 👩‍💻 Autora
+## Autora
 
 **Marina Aparecida Fais**
 Informática para Internet · Varginha, MG
