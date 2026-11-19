@@ -1,6 +1,6 @@
 # 🎵 Capa do Meu Álbum — Álbum e Faixas
 
-Entrega 01 do módulo **Mundo do Trabalho** (Informática para Internet · SENAI): a capa do meu álbum, uma identidade visual para representar um pouco de quem eu sou.
+Capa do meu álbum, uma identidade visual para representar um pouco de quem eu sou.
 
 > **"Florescer também é saber esperar!"**
 
