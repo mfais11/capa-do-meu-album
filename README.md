@@ -16,7 +16,7 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 4. **Montagem da capa:** criei a composição usando algumas IAs, ajustando cores, tamanhos e posição de cada elemento.
 5. **Nome das faixas:** criei 6 títulos de músicas que combinam com a minha personalidade e com a mensagem da capa.
 
-## 🎶 Faixas
+## Faixas
 
 | # | Faixa |
 |---|-------|
@@ -30,7 +30,7 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 <p align="center">
 </p>
 
-## 🔗 Portfólio
+## Portfólio
 
 Esta entrega faz parte do meu portfólio, onde estão todas as atividades do módulo Mundo do Trabalho.
 
