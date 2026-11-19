@@ -6,7 +6,7 @@ Capa do meu álbum, uma identidade visual para representar um pouco de quem eu s
 
 ## 📖 Sobre o projeto
 
-A capa traz uma árvore cheia de livros, fones de ouvido, uma TV e um pirulito. Cada elemento representa algo do meu dia a dia: os livros e a música que me acompanham quando estudo, os filmes e séries que gosto, e a árvore como lembrete de que tudo tem seu tempo para crescer.
+A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito e uma representação da minha fé católica (cruz). Cada elemento representa algo do meu dia a dia: os livros e a música que me acompanham quando estudo, os filmes e séries que gosto, e a árvore como lembrete de que tudo tem seu tempo para crescer.
 
 ## 🛠️ Como foi feito
 
