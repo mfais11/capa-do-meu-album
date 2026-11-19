@@ -2,10 +2,6 @@
 
 Entrega 01 do módulo **Mundo do Trabalho** (Informática para Internet · SENAI): a capa do meu álbum, uma identidade visual para representar um pouco de quem eu sou.
 
-<p align="center">
-  <img src="capa.jpg" alt="Capa do álbum de Marina Fais: árvore com livros, fones de ouvido, TV, pirulito e a frase Florescer também é saber esperar!" width="560">
-</p>
-
 > **"Florescer também é saber esperar!"**
 
 ## 📖 Sobre o projeto
