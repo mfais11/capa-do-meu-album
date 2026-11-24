@@ -40,8 +40,8 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 
 ## Resultado Final
 
-![Capa do Álbum](imagens/Capa Álbum (Final).jpg) Capa oficial do meu álbum visual, onde cada elemento — dos livros aos fones de ouvido — conta um pouco da minha história e da minha essência. Afinal, florescer também é saber esperar!
-![Capa do Álbum & Faixas](imagens/Capa Álbum & Faixas.jpg) Apresentação final da identidade visual e das faixas do álbum, unindo design, criatividade e autoconhecimento.
+![Capa do Álbum](imagens/Capa Álbum (Final).png) Capa oficial do meu álbum visual, onde cada elemento — dos livros aos fones de ouvido — conta um pouco da minha história e da minha essência. Afinal, florescer também é saber esperar!
+![Capa do Álbum & Faixas](imagens/Capa Álbum & Faixas.png) Apresentação final da identidade visual e das faixas do álbum, unindo design, criatividade e autoconhecimento.
 
 ## Portfólio
 
