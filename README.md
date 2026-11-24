@@ -1,20 +1,28 @@
 # 🎵 Capa do Meu Álbum — Álbum e Faixas
 
+<p align="justify">
 Capa do meu álbum, uma identidade visual para representar um pouco de quem eu sou.
+</p>
 
 > **"Florescer também é saber esperar!"**
 
 ## Sobre o projeto
 
+<p align="justify">
 A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito e uma representação da minha fé católica (cruz). Cada elemento representa algo do meu dia a dia: os livros e a música que me acompanham quando estudo, os filmes e séries que gosto, e a árvore como lembrete de que tudo tem seu tempo para crescer.
+</p>
 
 ## Como foi feito
+
+<div align="justify">
 
 1. **Ideia e conceito:** comecei pensando em como me descrever sem usar palavras: o que eu gosto, o que me acompanha e o que quero passar para quem olhar a capa.
 2. **Escolha dos elementos:** defini a árvore como símbolo central e, nela, os livros, os fones de ouvido, a TV, o pirulito, e uma cruz, simbolizando minha fé católica, e, cada elemento representa uma parte de mim.
 3. **Frase da capa:** escolhi "Florescer também é saber esperar!" para resumir a mensagem do álbum.
 4. **Montagem da capa:** criei a composição usando algumas IAs, ajustando cores, tamanhos e posição de cada elemento.
 5. **Nome das faixas:** criei 6 títulos de músicas que combinam com a minha personalidade e com a mensagem da capa.
+
+</div>
 
 ## Faixas
 
@@ -32,7 +40,9 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 
 ## Portfólio
 
+<p align="justify">
 Esta entrega faz parte do meu portfólio, onde estão todas as atividades do módulo Mundo do Trabalho.
+</p>
 
 ## Autora
 
