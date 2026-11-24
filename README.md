@@ -31,7 +31,7 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 | 01 | Sem ter de explicar |
 | 02 | Vibe boa e respeito |
 | 03 | Apanho tudo no ar |
-| 04 | O meu maior E se...? |
+| 04 | O meu maior "e se...?" |
 | 05 | O mundo é pequeno |
 | 06 | Quem me inspira |
 
