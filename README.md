@@ -41,7 +41,7 @@ A capa traz uma árvore cheia de livros, um fone de ouvido, uma TV, um pirulito 
 ## Portfólio
 
 <p align="justify">
-Esta entrega faz parte do meu portfólio, onde estão todas as atividades do módulo Mundo do Trabalho.
+Esta entrega faz parte do meu portfólio, onde estão algumas das atividades do módulo Mundo do Trabalho.
 </p>
 
 ## Autora
